@@ -1,0 +1,66 @@
+p{
+    font-family: 'Vollkorn', serif;
+    font-size: 23px;
+}
+h1{
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 40px;
+}
+.healthy-food{
+    display: flex;
+}
+.yellowgreen{
+    color: yellowgreen;
+}
+.display-button{
+    text-decoration: none;
+    background-image: linear-gradient(yellowgreen,yellow);
+    color: white;
+    width: 20%;
+    font-size: 20px;
+    border-radius: 30px;
+    text-align: center;
+    padding: 15px;
+    margin: 5%;
+}
+div{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 15px;
+}
+#about{
+    background-image: url(images/pic-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.special-dish{
+    text-align: center;
+    margin: 10px;
+    padding: 70px;
+}
+.salad{
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 10px 40px gray;
+}
+.salad img{
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px gray;
+     
+}
+.tips{
+    width: 40%;
+    margin: 80px;
+    padding: 30px;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 10px solid;
+    border-radius: 5px;
+    border-image: linear-gradient(teal, coral);
+    border-image-slice: 1;
+    background-image: url(images/CTA-Orange-Circles.png);
+}
+footer{
+    text-align: center;
+    background-color: gray;
+}
