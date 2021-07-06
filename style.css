@@ -59,6 +59,7 @@ div{
     border-image: linear-gradient(teal, coral);
     border-image-slice: 1;
     background-image: url(images/CTA-Orange-Circles.png);
+    background-repeat: no-repeat;
 }
 footer{
     text-align: center;
