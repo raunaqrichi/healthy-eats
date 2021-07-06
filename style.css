@@ -39,14 +39,12 @@ div{
     padding: 70px;
 }
 .salad{
-    margin: 15px;
-    padding: 30px;
+    margin: 10px;
+    padding: 20px;
     border-radius: 20px;
     box-shadow: 5px 10px 40px gray;
 }
 .salad img{
-    width: 70%;
-    height: 50%;
     border-radius: 20px;
     box-shadow: 5px 5px 10px gray;
      
